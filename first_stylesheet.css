@@ -1,0 +1,21 @@
+body{
+    background-color: lightblue; 
+    color: gray;
+    border-style:ridge;
+}
+
+h1{
+    
+}
+
+a:link{
+    color:purple;
+}
+
+a:hover{
+    color:cyan;
+}
+
+a:visited{
+    color:white;
+}
