@@ -1,14 +1,45 @@
 body{
-    background-image: url("cool_monkey.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;/*100% 100%;*/
-    /*background-color: red;*/
-    color: orange;
+    /*background-color: lightblue; 
+     */
+    background-color: rgb(0,185,255);
+    color: gray;
     border-style:ridge;
     margin-left: 20px;
    
 }
 
+div{
+    color: yellow;
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+.extreme{
+    color: magenta;
+    font-family: Arial;
+}
+
+.navzone{
+    opacity: .5;
+}
+
+.content{
+    word-spacing: 40px;
+}
+
+.prose{
+    word-spacing: 10px;
+}
+
+#head1{
+    color: black;
+    font-family: Verdana;
+}
+
+#tehlulz{
+    font-family: Arial;
+    font-size: 30px;
+}
 
 h1{
     text-align: center;
@@ -26,12 +57,11 @@ h3{
 }
 
 p{
-    border-style:dotted;
-    border-width: 10px;
     font-size: 18px;
 }
 
 /*unvisted link*/
+
 a:link {
     color: red;
 }
